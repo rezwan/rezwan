@@ -11,16 +11,12 @@ Welcome to my GitHub! I'm a passionate software developer and tech enthusiast, a
 - **Advanced AI and Machine Learning** techniques to enhance automation
 - Building **Hybrid Search** solutions using **Azure Cognitive Search**
 - Optimizing **Database systems** for efficient document processing and search
+- **.Net** ,**NodeJS** , **AI**, **Blockchain** , **Web3** , **Python**, **ReactJS**, **AngularJS**
 
 ### 👯 I’m looking to collaborate on:
 - Open-source projects related to **web development**, **AI**, and **automation**
 - Innovative solutions in the **healthcare technology** sector
 - **R&D projects** focused on **smart home systems** and **IoT**
-
-### 🤔 I’m looking for help with:
-- **Improving my Python skills** for high-performance applications
-- Optimizing **WebSocket communication** and **API performance**
-- Advanced configurations in **Home Assistant** for more responsive automation setups
 
 ### 💬 Ask me about:
 - **React**, **NestJS**, and full-stack web development
@@ -40,7 +36,6 @@ Welcome to my GitHub! I'm a passionate software developer and tech enthusiast, a
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
