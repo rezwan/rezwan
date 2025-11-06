@@ -52,11 +52,7 @@ Welcome to my GitHub! I'm a passionate software developer and tech enthusiast, a
 <br />
 #
 
-### 📈 GitHub Stats:
 
-![Rezwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezwan&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
----
 
 ### 🛠 Technologies I Use:
 - **Frontend**: ReactJS, Chakra UI, TypeScript
