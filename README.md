@@ -8,7 +8,7 @@ Welcome to my digital lab! I blend **code, AI, and caffeine** to build scalable,
 <img src="./visited-map.png" alt="Visited countries and places" width="100%">
 
 > Countries so far: USA 🇺🇸 · Malaysia 🇲🇾 · Ireland 🇮🇪 · Bangladesh 🇧🇩 · India 🇮🇳 · Thailand 🇹🇭  
-> Cities/areas: Massachusetts · Kuala Lumpur · Newbridge · Dhaka
+> Cities/areas: Massachusetts · Kuala Lumpur · Newbridge · Dhaka · Kolkata · Bangkok
 
 ---
 

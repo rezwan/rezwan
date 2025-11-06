@@ -19,11 +19,21 @@ def main():
     # Read ISO3 codes
     iso3 = [line.strip().upper() for line in countries_path.read_text().splitlines() if line.strip()]
 
-    # Load world geometries that ship with GeoPandas (Natural Earth, low-res)
-    world = gpd.read_file(gpd.datasets.get_path("naturalearth_lowres"))
 
-    # Match by ISO_A3
-    visited = world[world["iso_a3"].isin(iso3)]
+    # Path to shapefile (relative to project root)
+    shapefile_path = Path("./data/ne_110m_admin_0_countries.shp")
+    if not shapefile_path.exists():
+        print("Error: Shapefile './data/ne_110m_admin_0_countries.shp' not found.\n" 
+              "Download it from https://www.naturalearthdata.com/downloads/110m-cultural-vectors/ and extract all files into the 'data' folder at the project root.")
+        sys.exit(1)
+    world = gpd.read_file(str(shapefile_path))
+
+    # Match by ISO_A3 (column is uppercase in the shapefile)
+    if "ISO_A3" not in world.columns:
+        print("Error: 'ISO_A3' column not found in the shapefile. Available columns are:")
+        print(list(world.columns))
+        sys.exit(1)
+    visited = world[world["ISO_A3"].isin(iso3)]
 
     # Read places
     places = pd.read_csv(places_path)
