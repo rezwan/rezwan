@@ -46,7 +46,7 @@ Welcome to my digital lab! I blend **code, AI, and caffeine** to build scalable,
 ---
 
 ### ⚡ Fun Fact
-I built my own **AI-powered smart home control hub** that manages lights, blinds, and temperature — it even reacts to *mood* via ambient sensors. If Skynet ever becomes self-aware, it’s probably running on my Pi.  
+I built my own **AI-powered smart home control hub**  that uses facial recognition to ID visitors before they ring the bell, adapts lighting by zone, time, and motion, syncs with prayer schedules, and fully automates night routines. Basically — Jarvis lives inside my Raspberry Pi. 🧠💡🏠  
 
 ---
 
