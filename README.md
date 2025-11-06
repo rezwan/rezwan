@@ -9,6 +9,7 @@ Welcome to my digital lab! I blend **code, AI, and caffeine** to build scalable,
 - Building **AI-enhanced search ecosystems** using **Azure Cognitive Search** + **RAG (Retrieval-Augmented Generation)**  
 - Automating *everything*—from my **smart home** to **data pipelines** and **developer workflows**  
 - Experimenting with **IoT devices**, **voice-controlled automation**, and **edge AI** on **Raspberry Pi**  
+- Exploring **Blockchain**, **Smart Contracts**, and **Web3 ecosystems**  
 
 ---
 
@@ -16,7 +17,7 @@ Welcome to my digital lab! I blend **code, AI, and caffeine** to build scalable,
 - **Advanced Machine Learning** & **Neural Network Optimization**  
 - **Hybrid Search** combining embeddings, semantics & metadata ranking  
 - **Efficient Data Retrieval Pipelines** with vector search & graph-based indexing  
-- Deep diving into **.NET**, **NodeJS**, **Python**, **Blockchain**, and **Web3**  
+- Deep diving into **.NET**, **NodeJS**, **Python**, **Blockchain**, **Solidity**, **Golang**, and **Web3**  
 
 ---
 
@@ -24,12 +25,14 @@ Welcome to my digital lab! I blend **code, AI, and caffeine** to build scalable,
 - **AI-driven apps**, **automation frameworks**, and **open-source** innovation  
 - **Healthcare tech** that bridges humans and algorithms  
 - **Smart home ecosystems**, **IoT integrations**, or **R&D experiments** that push boundaries  
+- **Blockchain + Web3 solutions** that merge decentralization with intelligence  
 
 ---
 
 ### 🧩 Ask Me About
 - **Full-stack wizardry** with React, NestJS & TypeScript  
 - **RAG systems**, **Cognitive Search**, and **LLM fine-tuning**  
+- **Smart Contracts** and **Ethereum development** with Solidity  
 - Setting up **Home Assistant + Raspberry Pi** automations that make Alexa jealous  
 - The art of making **AI work in real-world products**, not just demos  
 
@@ -50,7 +53,6 @@ I built my own **AI-powered smart home control hub** that manages lights, blinds
 ### 🧰 Languages, Tools & Arcane Dev Magic  
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30px" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="30px" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="30px" /> 
@@ -61,6 +63,11 @@ I built my own **AI-powered smart home control hub** that manages lights, blinds
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30px" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30px" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30px" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="30px" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="30px" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="30px" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" width="30px" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blockchain/blockchain-original.svg" width="30px" /> 
 </p>
 
 ---
@@ -71,8 +78,9 @@ I built my own **AI-powered smart home control hub** that manages lights, blinds
 - **Databases**: PostgreSQL, Azure Cognitive Search, MongoDB, MySQL  
 - **Automation & IoT**: Home Assistant, Raspberry Pi, MQTT, Node-RED  
 - **AI & ML**: Python, TensorFlow, OpenAI, LangChain, Azure OpenAI  
+- **Blockchain & Web3**: Solidity, Ethereum, Golang, Hardhat, IPFS  
 
 ---
 
 ### 🧪 Motto
-> *“If it can be automated, optimized, or made smarter — I’ll find a way to do it.”*  
+> *“If it can be automated, optimized, decentralized, or made smarter — I’ll find a way to do it.”*  
