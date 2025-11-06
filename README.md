@@ -4,14 +4,6 @@ Welcome to my digital lab! I blend **code, AI, and caffeine** to build scalable,
 
 ---
 
-### 🗺 Where I’ve Been
-<img src="./visited-map.png" alt="Visited countries and places" width="100%">
-
-> Countries so far: USA 🇺🇸 · Malaysia 🇲🇾 · Ireland 🇮🇪 · Bangladesh 🇧🇩 · India 🇮🇳 · Thailand 🇹🇭  
-> Cities/areas: Massachusetts · Kuala Lumpur · Newbridge · Dhaka · Kolkata · Bangkok
-
----
-
 ### 🚀 What I’m Currently Crafting  
 - Architecting **next-gen web apps** powered by **ReactJS**, **NestJS**, and **serverless** magic  
 - Building **AI-enhanced search ecosystems** using **Azure Cognitive Search** + **RAG (Retrieval-Augmented Generation)**  
@@ -50,6 +42,14 @@ Welcome to my digital lab! I blend **code, AI, and caffeine** to build scalable,
 - 🧬 [LinkedIn: Rezwan Kabir](https://www.linkedin.com/in/rez1kabir/)  
 - 📧 [rezwan.rez1@gmail.com](mailto:rezwan.rez1@gmail.com)  
 - 🧑‍💻 [GitHub: rez1kabir](https://github.com/rez1kabir)  
+
+---
+
+### 🗺 Where I’ve Been
+<img src="./visited-map.png" alt="Visited countries and places" width="100%">
+
+> Countries so far: USA 🇺🇸 · Malaysia 🇲🇾 · Ireland 🇮🇪 · Bangladesh 🇧🇩 · India 🇮🇳 · Thailand 🇹🇭  
+> Cities/areas: Massachusetts · Kuala Lumpur · Newbridge · Dhaka · Kolkata · Bangkok
 
 ---
 
