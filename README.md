@@ -66,8 +66,7 @@ I built my own **AI-powered smart home control hub**  that uses facial recogniti
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="30px" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="30px" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="30px" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" width="30px" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blockchain/blockchain-original.svg" width="30px" /> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/ethereum.svg" width="30px" /> 
 </p>
 
 ---
