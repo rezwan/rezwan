@@ -4,6 +4,14 @@ Welcome to my digital lab! I blend **code, AI, and caffeine** to build scalable,
 
 ---
 
+### 🗺 Where I’ve Been
+<img src="./visited-map.png" alt="Visited countries and places" width="100%">
+
+> Countries so far: USA 🇺🇸 · Malaysia 🇲🇾 · Ireland 🇮🇪 · Bangladesh 🇧🇩 · India 🇮🇳 · Thailand 🇹🇭  
+> Cities/areas: Massachusetts · Kuala Lumpur · Newbridge · Dhaka
+
+---
+
 ### 🚀 What I’m Currently Crafting  
 - Architecting **next-gen web apps** powered by **ReactJS**, **NestJS**, and **serverless** magic  
 - Building **AI-enhanced search ecosystems** using **Azure Cognitive Search** + **RAG (Retrieval-Augmented Generation)**  
@@ -82,4 +90,4 @@ I built my own **AI-powered smart home control hub**  that uses facial recogniti
 ---
 
 ### 🧪 Motto
-> *“If it can be automated, optimized, decentralized, or made smarter — I’ll find a way to do it.”*  
+> *“If it can be automated, optimized, decentralized, or made smarter — I’ll find a way to do it.”*
