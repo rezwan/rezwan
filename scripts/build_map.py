@@ -45,9 +45,9 @@ def main():
 
     # Plot
     fig, ax = plt.subplots(figsize=(14, 7), dpi=200)
-    world.plot(ax=ax, color="#f2f2f2", edgecolor="#c9c9c9", linewidth=0.4)
-    visited.plot(ax=ax, color="#b3d8ff", edgecolor="#7cb5ec", linewidth=0.6)
-    gdf_points.plot(ax=ax, markersize=28, color="#333333")
+    world.plot(ax=ax, color="#f2f2f2", edgecolor="#c9c9c9", linewidth=0.4, alpha=0.5)
+    visited.plot(ax=ax, color="#b3d8ff", edgecolor="#7cb5ec", linewidth=0.6, alpha=0.7)
+    gdf_points.plot(ax=ax, markersize=28, color="#333333", alpha=0.8)
 
     # Labels
     for _, row in gdf_points.iterrows():
@@ -56,6 +56,11 @@ def main():
     ax.set_axis_off()
     ax.set_title("Places I've Been", fontsize=14, pad=12)
     plt.tight_layout()
+    fig.patch.set_facecolor('white')
+    fig.patch.set_alpha(0.6)
+    ax.set_facecolor('none')
+
+
     fig.savefig(out_path, bbox_inches="tight")
     print(f"Wrote {out_path}")
 
