@@ -5,7 +5,7 @@ Welcome to my digital lab! I blend **code, AI, and caffeine** to build scalable,
 ---
 
 ### 🚀 What I’m Currently Crafting
-<img src="https://media.licdn.com/dms/image/v2/D4E22AQGnA0lQH9fL7g/feedshare-shrink_2048_1536/B4EZngSgV.KkAw-/0/1760404572268?e=1764201600&v=beta&t=DsXNOXn_syvgRuK1WmLferqHE4_P3-G7qxyYXt7pEUk  " alt="Nucomply" width="100%">
+<img src="/compliance.jpeg" alt="Nucomply" width="100%">
 
 - Architecting **next-gen web apps** powered by **ReactJS**, **NestJS**, and **serverless** magic  
 - Building **AI-enhanced search ecosystems** using **Azure Cognitive Search** + **RAG (Retrieval-Augmented Generation)**  
