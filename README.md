@@ -41,6 +41,7 @@ Welcome to my digital lab! I blend **code, AI, and caffeine** to build scalable,
 ---
 
 ### 📡 Find Me On The Grid
+- 🌐 [rezwan.ie](https://rezwan.ie)  
 - 🧬 [LinkedIn: Rezwan Kabir](https://www.linkedin.com/in/rez1kabir/)  
 - 📧 [rezwan.rez1@gmail.com](mailto:rezwan.rez1@gmail.com)  
 - 🧑‍💻 [GitHub: rez1kabir](https://github.com/rez1kabir)  
